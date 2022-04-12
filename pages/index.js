@@ -133,7 +133,7 @@ export default function Home() {
         </div>
         <div>
           <img
-            src="./LW3punks/1.png"
+            src="./LW3Punks/1.png"
             alt="LW3Punks Call to Action"
             className={styles.image}
           />
